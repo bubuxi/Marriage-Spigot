@@ -1,0 +1,9 @@
+debug: true
+lang: Chinese
+marriageCost: 10000
+database:
+  url: localhost
+  port: 3306
+  table: marriage
+  user: root
+  password: ''

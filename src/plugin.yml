@@ -1,0 +1,8 @@
+name: Marriage 
+main: net.bubuxi.marriage.mc.Marriage
+version: 1.0
+commands:
+  marriage:
+    description:
+  gender:
+    description:
